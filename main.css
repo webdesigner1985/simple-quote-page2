@@ -1,0 +1,27 @@
+/*CSS reset*/
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: inherit;
+    text-align: center;
+  }
+
+
+  h1 {
+    text-transform: uppercase;
+    padding: 5% 0%;
+    font-size: 30px;
+    font-family: 'Nanum Gothic', sans-serif;
+    letter-spacing: 2px;
+    font-weight: lighter;
+  }
+
+  span {
+      font-style: italic;
+  }
+
+  body {
+      background: url('assets/freedom.jpg') no-repeat center center fixed;
+      background-size:cover;
+  }
